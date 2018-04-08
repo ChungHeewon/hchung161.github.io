@@ -42,12 +42,13 @@ body {
 }
 
 .header p {
-  color: #bf2d48/*1f75d1*/;
+  color: #bf2d48;
   font-weight: 500;
   letter-spacing: 8px;
   margin-bottom: 40px;
   margin-top: 0;
   text-transform: uppercase;
+  font-size: 55px;
 }
 
 .nav {
