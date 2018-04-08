@@ -41,10 +41,7 @@ body {
 }
 
 .main .container {
-  background: url(panel2.jpg) no-repeat center center;
-  background-size: cover;
-  height: 800px;
-  text-align: center;
+  background-color: blue;
 }
 
 .main .container img {
