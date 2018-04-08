@@ -41,8 +41,8 @@ body {
 }
 
 .main .container {
-  background-image:
-  url(panel2.jpg) no-repeat center center;
+  background: url(panel2.jpg) no-repeat center center;
+  background-size: cover;
 }
 .main .container img {
   width: 500px;
