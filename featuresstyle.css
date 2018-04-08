@@ -43,7 +43,10 @@ body {
 .main .container {
   background: url(panel2.jpg) no-repeat center center;
   background-size: cover;
+  height: 800px;
+  text-align: center;
 }
+
 .main .container img {
   width: 500px;
   height: 350px;
